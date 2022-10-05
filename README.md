@@ -15,3 +15,4 @@ Check Point 3
   push pin6, reset to zero
   Keep pushing pin17, count down the current number to zero
   releasing the switch, back to normal model.
+![image](https://user-images.githubusercontent.com/47807136/194035537-9de4d6e6-1739-4ef3-a5c9-4bf8025adcd6.png)
